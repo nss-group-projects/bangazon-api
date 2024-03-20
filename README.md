@@ -38,7 +38,13 @@ sudo apt install libtiff5-dev libjpeg8-dev libopenjp2-7-dev zlib1g-dev \
 1. Your should be prompted to import **Bangazon Python API**.
 1. Click the Import button to complete the process.
 
-To test it out, expand the Profile sub-collection, double-click on Login and send the request. You should get a response back that looks like this.
+To test it out...
+
+1. Click on the Collections icon on the left
+2. Expand the Profile sub-collection
+3. Double-click on Login and send the request.
+
+You should get a response back that looks like this.
 
 ```json
 {
