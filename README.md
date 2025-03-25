@@ -33,7 +33,7 @@ sudo apt install libtiff5-dev libjpeg8-dev libopenjp2-7-dev zlib1g-dev \
 
 ## Postman Request Collection
 
-1. Open Postman
+1. Open Yaak _(or Postman if you really want to)_
 1. Click File > Import from the navbar
 1. Either click and drag the `Bangazon Python API.postman_collection.json` file or choose it by clicking the **files** link in the window.
 1. Your should be prompted to import **Bangazon Python API**.
