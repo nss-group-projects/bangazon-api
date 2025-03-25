@@ -33,31 +33,30 @@ sudo apt install libtiff5-dev libjpeg8-dev libopenjp2-7-dev zlib1g-dev \
 
 ## Postman Request Collection
 
-1. Open Yaak _(or Postman if you really want to)_
-1. Click File > Import from the navbar
-1. Either click and drag the `Bangazon Python API.postman_collection.json` file or choose it by clicking the **files** link in the window.
-1. Your should be prompted to import **Bangazon Python API**.
-1. Click the Import button to complete the process.
+1. Open the [Yaak](https://yaak.app/) API client
+2. Click **Import**
+3. Click **Select File**
+4. Open the **`api-requests-collection.json`** file that is in this project.
+5. Click **Import** to complete the process
+6. You will see a confirmation that a new workspace has been created for you.
 
-To test it out...
+#### Test Login Request
 
-1. Click on the Collections icon on the left
-2. Expand the Profile sub-collection
-3. Double-click on Login and send the request.
-
-You should get a response back that looks like this.
-
-```json
-{
-    "valid": true,
-    "token": "9ba45f09651c5b0c404f37a2d2572c026c146690",
-    "id": 5
-}
-```
+1. Expand the **Profile** collection
+2. Click on **Login** to open the request
+3. Send the request.
+4. You should get a response back that looks like this
+   ```json
+   {
+       "valid": true,
+       "token": "9ba45f09651c5b0c404f37a2d2572c026c146690",
+       "id": 5
+   }
+   ```
 
 ## User Authentication
 
-Look in the `users.json` file for the usernames. Every password is _Admin8*_.
+Look in the `users.json` file for the usernames. While the passwords in the fixture are encrypted, the source password for every user is `Admin8*`
 
 ## Changing Your Database
 
