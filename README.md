@@ -23,8 +23,8 @@ sudo apt install libtiff5-dev libjpeg8-dev libopenjp2-7-dev zlib1g-dev \
 ## Setup
 
 1. Clone this repository and change to the directory in the terminal.
-2. Run `poetry install`
-3. Run `poetry shell`
+2. Run `poetry env activate` and wait for the virtual environment to be created.
+3. Run `poetry install` to install dependencies.
 4. Run `pip install setuptools`
 5. Run migrations and install starter data with the `./seed_data.sh` script.
 6. Open the project in VS Code if you haven't yet.
