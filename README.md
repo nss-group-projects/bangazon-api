@@ -31,21 +31,21 @@ sudo apt install libtiff5-dev libjpeg8-dev libopenjp2-7-dev zlib1g-dev \
 7. Ensure that the correct Python Interpreter is chosen in VS Code.
 8. Start your debugger.
 
-## Postman Request Collection
+## Yaak Request Collection
 
-1. Open the [Yaak](https://yaak.app/) API client
-2. Click **Import**
-3. Click **Select File**
+1. Open the [Yaak](https://yaak.app/) API client.
+2. Click **Import**.
+3. Click **Select File**.
 4. Open the **`api-requests-collection.json`** file that is in this project.
-5. Click **Import** to complete the process
+5. Click **Import** to complete the process.
 6. You will see a confirmation that a new workspace has been created for you.
 
 #### Test Login Request
 
-1. Expand the **Profile** collection
-2. Click on **Login** to open the request
+1. Expand the **Profile** collection.
+2. Click on **Login** to open the request.
 3. Send the request.
-4. You should get a response back that looks like this
+4. You should get a response back that looks like this.
    ```json
    {
        "valid": true,

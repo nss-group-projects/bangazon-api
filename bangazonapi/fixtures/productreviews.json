@@ -1,0 +1,5702 @@
+[
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 1,
+    "fields": {
+      "product_id": 1,
+      "customer_id": 6,
+      "review": "The 2008 Kia Optima is a reliable vehicle. Good condition for its age.",
+      "created_date": "2020-01-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 2,
+    "fields": {
+      "product_id": 1,
+      "customer_id": 5,
+      "review": "Decent car but has some wear and tear as expected from a 2008 model.",
+      "created_date": "2020-02-03"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 3,
+    "fields": {
+      "product_id": 1,
+      "customer_id": 5,
+      "review": "Great value for the price! This Optima runs perfectly despite its age.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 4,
+    "fields": {
+      "product_id": 1,
+      "customer_id": 6,
+      "review": "The Kia Optima has decent fuel economy but needs some minor repairs.",
+      "created_date": "2020-03-05"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 5,
+    "fields": {
+      "product_id": 2,
+      "customer_id": 7,
+      "review": "The 1994 Volkswagen Golf is a classic! Well maintained example.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 6,
+    "fields": {
+      "product_id": 2,
+      "customer_id": 6,
+      "review": "This VW Golf is surprisingly good for its age. Fun little car!",
+      "created_date": "2020-02-05"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 7,
+    "fields": {
+      "product_id": 2,
+      "customer_id": 7,
+      "review": "Classic Golf with expected wear and tear, but runs well for a 90s model.",
+      "created_date": "2020-03-14"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 8,
+    "fields": {
+      "product_id": 2,
+      "customer_id": 5,
+      "review": "Great example of the MK3 Golf. Very nostalgic ride!",
+      "created_date": "2020-04-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 9,
+    "fields": {
+      "product_id": 3,
+      "customer_id": 5,
+      "review": "The 2008 Kia Optima is reliable and economical. Happy with this purchase.",
+      "created_date": "2020-01-30"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 10,
+    "fields": {
+      "product_id": 3,
+      "customer_id": 7,
+      "review": "Decent car with expected issues for its age. Interior is in good shape.",
+      "created_date": "2020-02-27"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 11,
+    "fields": {
+      "product_id": 3,
+      "customer_id": 6,
+      "review": "This Optima exceeded my expectations! Very well maintained.",
+      "created_date": "2020-03-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 12,
+    "fields": {
+      "product_id": 3,
+      "customer_id": 6,
+      "review": "Good family sedan with plenty of space and reasonable fuel efficiency.",
+      "created_date": "2020-04-02"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 13,
+    "fields": {
+      "product_id": 4,
+      "customer_id": 7,
+      "review": "This Golf is a real classic. Drives surprisingly well for its age!",
+      "created_date": "2020-01-05"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 14,
+    "fields": {
+      "product_id": 4,
+      "customer_id": 5,
+      "review": "The 1994 Golf is in amazing condition. A true survivor!",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 15,
+    "fields": {
+      "product_id": 4,
+      "customer_id": 7,
+      "review": "Decent example of a MK3 Golf. Some rust issues but mechanically sound.",
+      "created_date": "2020-03-07"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 16,
+    "fields": {
+      "product_id": 4,
+      "customer_id": 5,
+      "review": "Fun little car with character. Simple and reliable 90s engineering.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 17,
+    "fields": {
+      "product_id": 5,
+      "customer_id": 6,
+      "review": "The Optima is in decent condition but needed some maintenance.",
+      "created_date": "2020-01-07"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 18,
+    "fields": {
+      "product_id": 5,
+      "customer_id": 6,
+      "review": "Reliable and practical sedan. The 2008 Optima is a solid choice.",
+      "created_date": "2020-02-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 19,
+    "fields": {
+      "product_id": 5,
+      "customer_id": 7,
+      "review": "Excellent value! This Optima runs perfectly and has been well maintained.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 20,
+    "fields": {
+      "product_id": 5,
+      "customer_id": 5,
+      "review": "Good family car with plenty of features for a 2008 model.",
+      "created_date": "2020-04-14"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 21,
+    "fields": {
+      "product_id": 6,
+      "customer_id": 5,
+      "review": "Perfect example of a 90s Golf! Love the classic styling.",
+      "created_date": "2020-01-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 22,
+    "fields": {
+      "product_id": 6,
+      "customer_id": 7,
+      "review": "The Golf drives really well for its age. Good find!",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 23,
+    "fields": {
+      "product_id": 6,
+      "customer_id": 6,
+      "review": "Decent little hatchback. Some minor issues but expected for its age.",
+      "created_date": "2020-03-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 24,
+    "fields": {
+      "product_id": 6,
+      "customer_id": 7,
+      "review": "Classic VW quality. This Golf has stood the test of time well.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 25,
+    "fields": {
+      "product_id": 7,
+      "customer_id": 5,
+      "review": "The Kia Optima is comfortable and economical. Good purchase.",
+      "created_date": "2020-01-03"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 26,
+    "fields": {
+      "product_id": 7,
+      "customer_id": 6,
+      "review": "Excellent sedan with good features. Well maintained example.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 27,
+    "fields": {
+      "product_id": 7,
+      "customer_id": 7,
+      "review": "The 2008 Optima is showing its age but still runs reliably.",
+      "created_date": "2020-03-27"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 28,
+    "fields": {
+      "product_id": 7,
+      "customer_id": 5,
+      "review": "Good value for money. Comfortable family sedan with low maintenance costs.",
+      "created_date": "2020-04-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 29,
+    "fields": {
+      "product_id": 8,
+      "customer_id": 6,
+      "review": "This Golf is in amazing condition for its age! Real gem.",
+      "created_date": "2020-01-14"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 30,
+    "fields": {
+      "product_id": 8,
+      "customer_id": 7,
+      "review": "Classic VW reliability. This Golf still drives like a dream.",
+      "created_date": "2020-02-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 31,
+    "fields": {
+      "product_id": 8,
+      "customer_id": 5,
+      "review": "Good classic hatchback. Some wear as expected but mechanically sound.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 32,
+    "fields": {
+      "product_id": 8,
+      "customer_id": 6,
+      "review": "Fun to drive and economical. A great example of a MK3 Golf.",
+      "created_date": "2020-04-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 33,
+    "fields": {
+      "product_id": 9,
+      "customer_id": 7,
+      "review": "The Optima is a reliable and practical sedan. Good condition for 2008.",
+      "created_date": "2020-01-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 34,
+    "fields": {
+      "product_id": 9,
+      "customer_id": 5,
+      "review": "Excellent example of a 2008 Optima! Very well maintained.",
+      "created_date": "2020-02-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 35,
+    "fields": {
+      "product_id": 9,
+      "customer_id": 6,
+      "review": "Decent family car. Some minor issues but good value overall.",
+      "created_date": "2020-03-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 36,
+    "fields": {
+      "product_id": 9,
+      "customer_id": 7,
+      "review": "Comfortable and economical. This Optima has been well looked after.",
+      "created_date": "2020-04-05"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 37,
+    "fields": {
+      "product_id": 10,
+      "customer_id": 5,
+      "review": "Classic Golf enthusiast's dream! Great condition for its age.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 38,
+    "fields": {
+      "product_id": 10,
+      "customer_id": 6,
+      "review": "The 1994 Golf is surprisingly responsive and fun to drive.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 39,
+    "fields": {
+      "product_id": 10,
+      "customer_id": 6,
+      "review": "Decent little hatchback. Some issues with the electrics but mechanically sound.",
+      "created_date": "2020-03-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 40,
+    "fields": {
+      "product_id": 10,
+      "customer_id": 7,
+      "review": "Great example of a 90s Golf. Simple and reliable engineering.",
+      "created_date": "2020-04-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 41,
+    "fields": {
+      "product_id": 11,
+      "customer_id": 5,
+      "review": "The Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 42,
+    "fields": {
+      "product_id": 11,
+      "customer_id": 5,
+      "review": "Excellent condition for a 2008 model! Very well maintained Optima.",
+      "created_date": "2020-02-14"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 43,
+    "fields": {
+      "product_id": 11,
+      "customer_id": 6,
+      "review": "Decent family car with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 44,
+    "fields": {
+      "product_id": 11,
+      "customer_id": 7,
+      "review": "Good fuel economy and comfortable ride. This Optima is a solid choice.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 45,
+    "fields": {
+      "product_id": 12,
+      "customer_id": 7,
+      "review": "The Golf is in great condition considering its age. Fun little car!",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 46,
+    "fields": {
+      "product_id": 12,
+      "customer_id": 6,
+      "review": "Classic VW quality. This 1994 Golf has aged remarkably well.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 47,
+    "fields": {
+      "product_id": 12,
+      "customer_id": 5,
+      "review": "Decent example of a MK3 Golf. Some wear but good overall condition.",
+      "created_date": "2020-03-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 48,
+    "fields": {
+      "product_id": 12,
+      "customer_id": 5,
+      "review": "Surprisingly nimble and fun to drive. Good example of a classic Golf.",
+      "created_date": "2020-04-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 49,
+    "fields": {
+      "product_id": 13,
+      "customer_id": 6,
+      "review": "The 2008 Optima is showing its age but still runs well. Good value.",
+      "created_date": "2020-01-06"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 50,
+    "fields": {
+      "product_id": 13,
+      "customer_id": 7,
+      "review": "Reliable and economical sedan. This Optima has been well maintained.",
+      "created_date": "2020-02-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 51,
+    "fields": {
+      "product_id": 13,
+      "customer_id": 7,
+      "review": "Excellent condition for its age! This Optima drives like a much newer car.",
+      "created_date": "2020-03-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 52,
+    "fields": {
+      "product_id": 13,
+      "customer_id": 6,
+      "review": "Good family sedan with plenty of features for a 2008 model.",
+      "created_date": "2020-04-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 53,
+    "fields": {
+      "product_id": 14,
+      "customer_id": 5,
+      "review": "The 1994 Golf is a classic! Well-preserved example of 90s engineering.",
+      "created_date": "2020-01-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 54,
+    "fields": {
+      "product_id": 14,
+      "customer_id": 5,
+      "review": "Amazing condition for its age! This Golf is a real time capsule.",
+      "created_date": "2020-02-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 55,
+    "fields": {
+      "product_id": 14,
+      "customer_id": 6,
+      "review": "Decent little hatchback with character. Some wear but mechanically sound.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 56,
+    "fields": {
+      "product_id": 14,
+      "customer_id": 7,
+      "review": "Fun to drive and surprisingly efficient. Good example of a MK3 Golf.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 57,
+    "fields": {
+      "product_id": 15,
+      "customer_id": 6,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 58,
+    "fields": {
+      "product_id": 15,
+      "customer_id": 7,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 59,
+    "fields": {
+      "product_id": 15,
+      "customer_id": 7,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 60,
+    "fields": {
+      "product_id": 15,
+      "customer_id": 5,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-07"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 61,
+    "fields": {
+      "product_id": 16,
+      "customer_id": 5,
+      "review": "Fantastic example of a 90s Golf! This one is in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 62,
+    "fields": {
+      "product_id": 16,
+      "customer_id": 6,
+      "review": "The 1994 Golf is surprisingly agile and fun to drive. Good find!",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 63,
+    "fields": {
+      "product_id": 16,
+      "customer_id": 6,
+      "review": "Decent condition for its age. Some minor issues but mechanically sound.",
+      "created_date": "2020-03-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 64,
+    "fields": {
+      "product_id": 16,
+      "customer_id": 7,
+      "review": "Simple engineering and easy to maintain. A classic Golf that's aged well.",
+      "created_date": "2020-04-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 65,
+    "fields": {
+      "product_id": 17,
+      "customer_id": 7,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 66,
+    "fields": {
+      "product_id": 17,
+      "customer_id": 5,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 67,
+    "fields": {
+      "product_id": 17,
+      "customer_id": 6,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 68,
+    "fields": {
+      "product_id": 17,
+      "customer_id": 5,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-03"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 41,
+    "fields": {
+      "product_id": 11,
+      "customer_id": 5,
+      "review": "The Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 42,
+    "fields": {
+      "product_id": 11,
+      "customer_id": 5,
+      "review": "Excellent condition for a 2008 model! Very well maintained Optima.",
+      "created_date": "2020-02-14"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 43,
+    "fields": {
+      "product_id": 11,
+      "customer_id": 6,
+      "review": "Decent family car with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 44,
+    "fields": {
+      "product_id": 11,
+      "customer_id": 7,
+      "review": "Good fuel economy and comfortable ride. This Optima is a solid choice.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 45,
+    "fields": {
+      "product_id": 12,
+      "customer_id": 7,
+      "review": "The Golf is in great condition considering its age. Fun little car!",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 46,
+    "fields": {
+      "product_id": 12,
+      "customer_id": 6,
+      "review": "Classic VW quality. This 1994 Golf has aged remarkably well.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 47,
+    "fields": {
+      "product_id": 12,
+      "customer_id": 5,
+      "review": "Decent example of a MK3 Golf. Some wear but good overall condition.",
+      "created_date": "2020-03-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 48,
+    "fields": {
+      "product_id": 12,
+      "customer_id": 5,
+      "review": "Surprisingly nimble and fun to drive. Good example of a classic Golf.",
+      "created_date": "2020-04-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 49,
+    "fields": {
+      "product_id": 13,
+      "customer_id": 6,
+      "review": "The 2008 Optima is showing its age but still runs well. Good value.",
+      "created_date": "2020-01-06"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 50,
+    "fields": {
+      "product_id": 13,
+      "customer_id": 7,
+      "review": "Reliable and economical sedan. This Optima has been well maintained.",
+      "created_date": "2020-02-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 51,
+    "fields": {
+      "product_id": 13,
+      "customer_id": 7,
+      "review": "Excellent condition for its age! This Optima drives like a much newer car.",
+      "created_date": "2020-03-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 52,
+    "fields": {
+      "product_id": 13,
+      "customer_id": 6,
+      "review": "Good family sedan with plenty of features for a 2008 model.",
+      "created_date": "2020-04-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 53,
+    "fields": {
+      "product_id": 14,
+      "customer_id": 5,
+      "review": "The 1994 Golf is a classic! Well-preserved example of 90s engineering.",
+      "created_date": "2020-01-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 54,
+    "fields": {
+      "product_id": 14,
+      "customer_id": 5,
+      "review": "Amazing condition for its age! This Golf is a real time capsule.",
+      "created_date": "2020-02-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 55,
+    "fields": {
+      "product_id": 14,
+      "customer_id": 6,
+      "review": "Decent little hatchback with character. Some wear but mechanically sound.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 56,
+    "fields": {
+      "product_id": 14,
+      "customer_id": 7,
+      "review": "Fun to drive and surprisingly efficient. Good example of a MK3 Golf.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 57,
+    "fields": {
+      "product_id": 15,
+      "customer_id": 6,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 58,
+    "fields": {
+      "product_id": 15,
+      "customer_id": 7,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 59,
+    "fields": {
+      "product_id": 15,
+      "customer_id": 7,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 60,
+    "fields": {
+      "product_id": 15,
+      "customer_id": 5,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-07"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 61,
+    "fields": {
+      "product_id": 16,
+      "customer_id": 5,
+      "review": "Fantastic example of a 90s Golf! This one is in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 62,
+    "fields": {
+      "product_id": 16,
+      "customer_id": 6,
+      "review": "The 1994 Golf is surprisingly agile and fun to drive. Good find!",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 63,
+    "fields": {
+      "product_id": 16,
+      "customer_id": 6,
+      "review": "Decent condition for its age. Some minor issues but mechanically sound.",
+      "created_date": "2020-03-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 64,
+    "fields": {
+      "product_id": 16,
+      "customer_id": 7,
+      "review": "Simple engineering and easy to maintain. A classic Golf that's aged well.",
+      "created_date": "2020-04-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 65,
+    "fields": {
+      "product_id": 17,
+      "customer_id": 7,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 66,
+    "fields": {
+      "product_id": 17,
+      "customer_id": 5,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 67,
+    "fields": {
+      "product_id": 17,
+      "customer_id": 6,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 68,
+    "fields": {
+      "product_id": 17,
+      "customer_id": 5,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-03"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 69,
+    "fields": {
+      "product_id": 18,
+      "customer_id": 7,
+      "review": "The Golf is a classic! This one's in great shape for a '94 model.",
+      "created_date": "2020-01-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 70,
+    "fields": {
+      "product_id": 18,
+      "customer_id": 6,
+      "review": "Decent little hatchback with character. Some minor issues but runs well.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 71,
+    "fields": {
+      "product_id": 18,
+      "customer_id": 7,
+      "review": "Amazingly well-preserved Golf! Drives like it's much newer.",
+      "created_date": "2020-03-06"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 72,
+    "fields": {
+      "product_id": 18,
+      "customer_id": 5,
+      "review": "Fun to drive with responsive handling. A great example of the MK3 Golf.",
+      "created_date": "2020-04-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 73,
+    "fields": {
+      "product_id": 19,
+      "customer_id": 6,
+      "review": "The 2008 Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 74,
+    "fields": {
+      "product_id": 19,
+      "customer_id": 5,
+      "review": "Excellent condition for its age! This Optima has been very well maintained.",
+      "created_date": "2020-02-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 75,
+    "fields": {
+      "product_id": 19,
+      "customer_id": 7,
+      "review": "Decent family car with expected wear for a 2008 model. Runs reliably.",
+      "created_date": "2020-03-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 76,
+    "fields": {
+      "product_id": 19,
+      "customer_id": 6,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family sedan.",
+      "created_date": "2020-04-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 77,
+    "fields": {
+      "product_id": 20,
+      "customer_id": 5,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-04"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 78,
+    "fields": {
+      "product_id": 20,
+      "customer_id": 7,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 97,
+    "fields": {
+      "product_id": 25,
+      "customer_id": 7,
+      "review": "The 2008 Kia Optima is reliable and comfortable. Great family sedan.",
+      "created_date": "2020-01-05"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 98,
+    "fields": {
+      "product_id": 25,
+      "customer_id": 6,
+      "review": "Excellent condition for its age! This Optima has been well maintained.",
+      "created_date": "2020-02-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 99,
+    "fields": {
+      "product_id": 25,
+      "customer_id": 5,
+      "review": "Decent family car with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 100,
+    "fields": {
+      "product_id": 25,
+      "customer_id": 7,
+      "review": "Good fuel economy and spacious interior. A practical choice.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 101,
+    "fields": {
+      "product_id": 26,
+      "customer_id": 5,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 102,
+    "fields": {
+      "product_id": 26,
+      "customer_id": 4,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 103,
+    "fields": {
+      "product_id": 26,
+      "customer_id": 6,
+      "review": "Decent condition for its age. Some minor issues but drives well.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 104,
+    "fields": {
+      "product_id": 26,
+      "customer_id": 7,
+      "review": "Simple engineering that's stood the test of time. Good example of a MK3 Golf.",
+      "created_date": "2020-04-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 105,
+    "fields": {
+      "product_id": 27,
+      "customer_id": 6,
+      "review": "The Optima offers good value and comfort. Reliable family sedan.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 106,
+    "fields": {
+      "product_id": 27,
+      "customer_id": 5,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 107,
+    "fields": {
+      "product_id": 27,
+      "customer_id": 7,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 108,
+    "fields": {
+      "product_id": 27,
+      "customer_id": 5,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 109,
+    "fields": {
+      "product_id": 28,
+      "customer_id": 4,
+      "review": "The Golf is in great condition considering its age. Fun little car!",
+      "created_date": "2020-01-14"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 110,
+    "fields": {
+      "product_id": 28,
+      "customer_id": 6,
+      "review": "Classic VW quality. This 1994 Golf has aged remarkably well.",
+      "created_date": "2020-02-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 111,
+    "fields": {
+      "product_id": 28,
+      "customer_id": 7,
+      "review": "Decent example of a MK3 Golf. Some wear but good overall condition.",
+      "created_date": "2020-03-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 112,
+    "fields": {
+      "product_id": 28,
+      "customer_id": 6,
+      "review": "Surprisingly nimble and fun to drive. Good example of a classic Golf.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 113,
+    "fields": {
+      "product_id": 29,
+      "customer_id": 5,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-07"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 114,
+    "fields": {
+      "product_id": 29,
+      "customer_id": 7,
+      "review": "Excellent condition for its age! This Optima drives like a much newer car.",
+      "created_date": "2020-02-14"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 115,
+    "fields": {
+      "product_id": 29,
+      "customer_id": 5,
+      "review": "Decent family car with expected wear and tear. Interior is still in good shape.",
+      "created_date": "2020-03-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 116,
+    "fields": {
+      "product_id": 29,
+      "customer_id": 4,
+      "review": "Good family sedan with plenty of features for a 2008 model.",
+      "created_date": "2020-04-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 117,
+    "fields": {
+      "product_id": 30,
+      "customer_id": 6,
+      "review": "The 1994 Golf is a classic! Well-preserved example of 90s engineering.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 118,
+    "fields": {
+      "product_id": 30,
+      "customer_id": 7,
+      "review": "Amazing condition for its age! This Golf is a real time capsule.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 119,
+    "fields": {
+      "product_id": 30,
+      "customer_id": 6,
+      "review": "Decent little hatchback with character. Some wear but mechanically sound.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 120,
+    "fields": {
+      "product_id": 30,
+      "customer_id": 5,
+      "review": "Fun to drive and surprisingly efficient. Good example of a MK3 Golf.",
+      "created_date": "2020-04-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 121,
+    "fields": {
+      "product_id": 31,
+      "customer_id": 7,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-06"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 122,
+    "fields": {
+      "product_id": 31,
+      "customer_id": 5,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 123,
+    "fields": {
+      "product_id": 31,
+      "customer_id": 4,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 124,
+    "fields": {
+      "product_id": 31,
+      "customer_id": 6,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 125,
+    "fields": {
+      "product_id": 32,
+      "customer_id": 7,
+      "review": "The Golf is a classic! This one's in great shape for a '94 model.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 126,
+    "fields": {
+      "product_id": 32,
+      "customer_id": 6,
+      "review": "Decent little hatchback with character. Some minor issues but runs well.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 127,
+    "fields": {
+      "product_id": 32,
+      "customer_id": 5,
+      "review": "Amazingly well-preserved Golf! Drives like it's much newer.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 128,
+    "fields": {
+      "product_id": 32,
+      "customer_id": 7,
+      "review": "Fun to drive with responsive handling. A great example of the MK3 Golf.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 129,
+    "fields": {
+      "product_id": 33,
+      "customer_id": 5,
+      "review": "The 2008 Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 130,
+    "fields": {
+      "product_id": 33,
+      "customer_id": 4,
+      "review": "Excellent condition for its age! This Optima has been very well maintained.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 131,
+    "fields": {
+      "product_id": 33,
+      "customer_id": 6,
+      "review": "Decent family car with expected wear for a 2008 model. Runs reliably.",
+      "created_date": "2020-03-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 132,
+    "fields": {
+      "product_id": 33,
+      "customer_id": 7,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family sedan.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 133,
+    "fields": {
+      "product_id": 34,
+      "customer_id": 6,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 134,
+    "fields": {
+      "product_id": 34,
+      "customer_id": 5,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 135,
+    "fields": {
+      "product_id": 34,
+      "customer_id": 7,
+      "review": "Decent condition for its age. Some minor wear but drives well.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 136,
+    "fields": {
+      "product_id": 34,
+      "customer_id": 5,
+      "review": "Simple engineering that's stood the test of time. Good example of a MK3 Golf.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 137,
+    "fields": {
+      "product_id": 35,
+      "customer_id": 4,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 138,
+    "fields": {
+      "product_id": 35,
+      "customer_id": 6,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 139,
+    "fields": {
+      "product_id": 35,
+      "customer_id": 7,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 140,
+    "fields": {
+      "product_id": 35,
+      "customer_id": 6,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 141,
+    "fields": {
+      "product_id": 36,
+      "customer_id": 5,
+      "review": "The 1994 Golf is a classic! This one's in remarkably good condition.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 142,
+    "fields": {
+      "product_id": 36,
+      "customer_id": 7,
+      "review": "Fun to drive and has been well maintained. Good example of a 90s Golf.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 143,
+    "fields": {
+      "product_id": 36,
+      "customer_id": 5,
+      "review": "Decent little hatchback. Some minor issues but expected for its age.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 144,
+    "fields": {
+      "product_id": 36,
+      "customer_id": 4,
+      "review": "Simple engineering that's easy to maintain. A proper classic Golf.",
+      "created_date": "2020-04-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 145,
+    "fields": {
+      "product_id": 37,
+      "customer_id": 6,
+      "review": "The 2008 Optima is comfortable and reliable. Good value sedan.",
+      "created_date": "2020-01-07"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 146,
+    "fields": {
+      "product_id": 37,
+      "customer_id": 7,
+      "review": "Excellent condition for its age! This Optima has been well cared for.",
+      "created_date": "2020-02-14"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 147,
+    "fields": {
+      "product_id": 37,
+      "customer_id": 6,
+      "review": "Decent family sedan with expected wear. Good reliability record.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 148,
+    "fields": {
+      "product_id": 37,
+      "customer_id": 5,
+      "review": "Good fuel economy and plenty of space. A practical family car.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 149,
+    "fields": {
+      "product_id": 38,
+      "customer_id": 7,
+      "review": "The Golf is a fun little car with plenty of character. Good condition.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 150,
+    "fields": {
+      "product_id": 38,
+      "customer_id": 5,
+      "review": "Amazing condition for a 1994 model! This Golf has clearly been cherished.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 151,
+    "fields": {
+      "product_id": 38,
+      "customer_id": 4,
+      "review": "Decent example of a MK3 Golf. Some wear but mechanically sound.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 152,
+    "fields": {
+      "product_id": 38,
+      "customer_id": 6,
+      "review": "Surprisingly nimble and efficient. This Golf is a proper classic VW.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 153,
+    "fields": {
+      "product_id": 39,
+      "customer_id": 7,
+      "review": "The Optima is reliable and practical. Good condition for a 2008 model.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 154,
+    "fields": {
+      "product_id": 39,
+      "customer_id": 6,
+      "review": "Excellent sedan with good features. Well maintained example.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 155,
+    "fields": {
+      "product_id": 39,
+      "customer_id": 5,
+      "review": "The 2008 Optima is showing its age but still runs reliably.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 156,
+    "fields": {
+      "product_id": 39,
+      "customer_id": 7,
+      "review": "Good value for money. Comfortable family sedan with low maintenance costs.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 157,
+    "fields": {
+      "product_id": 40,
+      "customer_id": 5,
+      "review": "This Golf is in amazing condition for its age! Real gem.",
+      "created_date": "2020-01-14"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 158,
+    "fields": {
+      "product_id": 40,
+      "customer_id": 4,
+      "review": "Classic VW reliability. This Golf still drives like a dream.",
+      "created_date": "2020-02-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 159,
+    "fields": {
+      "product_id": 40,
+      "customer_id": 6,
+      "review": "Good classic hatchback. Some wear as expected but mechanically sound.",
+      "created_date": "2020-03-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 160,
+    "fields": {
+      "product_id": 40,
+      "customer_id": 7,
+      "review": "Fun to drive and economical. A great example of a MK3 Golf.",
+      "created_date": "2020-04-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 161,
+    "fields": {
+      "product_id": 41,
+      "customer_id": 6,
+      "review": "The Optima is a reliable and practical sedan. Good condition for 2008.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 162,
+    "fields": {
+      "product_id": 41,
+      "customer_id": 5,
+      "review": "Excellent example of a 2008 Optima! Very well maintained.",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 163,
+    "fields": {
+      "product_id": 41,
+      "customer_id": 7,
+      "review": "Decent family car. Some minor issues but good value overall.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 164,
+    "fields": {
+      "product_id": 41,
+      "customer_id": 5,
+      "review": "Comfortable and economical. This Optima has been well looked after.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 165,
+    "fields": {
+      "product_id": 42,
+      "customer_id": 4,
+      "review": "Classic Golf enthusiast's dream! Great condition for its age.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 166,
+    "fields": {
+      "product_id": 42,
+      "customer_id": 6,
+      "review": "The 1994 Golf is surprisingly responsive and fun to drive.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 167,
+    "fields": {
+      "product_id": 42,
+      "customer_id": 7,
+      "review": "Decent little hatchback. Some issues with the electrics but mechanically sound.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 168,
+    "fields": {
+      "product_id": 42,
+      "customer_id": 6,
+      "review": "Great example of a 90s Golf. Simple and reliable engineering.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 169,
+    "fields": {
+      "product_id": 43,
+      "customer_id": 5,
+      "review": "The Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 170,
+    "fields": {
+      "product_id": 43,
+      "customer_id": 7,
+      "review": "Excellent condition for a 2008 model! Very well maintained Optima.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 171,
+    "fields": {
+      "product_id": 43,
+      "customer_id": 5,
+      "review": "Decent family car with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 172,
+    "fields": {
+      "product_id": 43,
+      "customer_id": 4,
+      "review": "Good fuel economy and comfortable ride. This Optima is a solid choice.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 173,
+    "fields": {
+      "product_id": 44,
+      "customer_id": 6,
+      "review": "The Golf is in great condition considering its age. Fun little car!",
+      "created_date": "2020-01-14"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 174,
+    "fields": {
+      "product_id": 44,
+      "customer_id": 7,
+      "review": "Classic VW quality. This 1994 Golf has aged remarkably well.",
+      "created_date": "2020-02-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 175,
+    "fields": {
+      "product_id": 44,
+      "customer_id": 6,
+      "review": "Decent example of a MK3 Golf. Some wear but good overall condition.",
+      "created_date": "2020-03-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 176,
+    "fields": {
+      "product_id": 44,
+      "customer_id": 5,
+      "review": "Surprisingly nimble and fun to drive. Good example of a classic Golf.",
+      "created_date": "2020-04-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 177,
+    "fields": {
+      "product_id": 45,
+      "customer_id": 7,
+      "review": "The 2008 Optima is showing its age but still runs well. Good value.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 178,
+    "fields": {
+      "product_id": 45,
+      "customer_id": 5,
+      "review": "Reliable and economical sedan. This Optima has been well maintained.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 179,
+    "fields": {
+      "product_id": 45,
+      "customer_id": 4,
+      "review": "Excellent condition for its age! This Optima drives like a much newer car.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 180,
+    "fields": {
+      "product_id": 45,
+      "customer_id": 6,
+      "review": "Good family sedan with plenty of features for a 2008 model.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 181,
+    "fields": {
+      "product_id": 46,
+      "customer_id": 7,
+      "review": "The 1994 Golf is a classic! Well-preserved example of 90s engineering.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 182,
+    "fields": {
+      "product_id": 46,
+      "customer_id": 6,
+      "review": "Amazing condition for its age! This Golf is a real time capsule.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 183,
+    "fields": {
+      "product_id": 46,
+      "customer_id": 5,
+      "review": "Decent little hatchback with character. Some wear but mechanically sound.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 184,
+    "fields": {
+      "product_id": 46,
+      "customer_id": 7,
+      "review": "Fun to drive and surprisingly efficient. Good example of a MK3 Golf.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 185,
+    "fields": {
+      "product_id": 47,
+      "customer_id": 5,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 186,
+    "fields": {
+      "product_id": 47,
+      "customer_id": 4,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 187,
+    "fields": {
+      "product_id": 47,
+      "customer_id": 6,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 188,
+    "fields": {
+      "product_id": 47,
+      "customer_id": 7,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 189,
+    "fields": {
+      "product_id": 48,
+      "customer_id": 6,
+      "review": "Fantastic example of a 90s Golf! This one is in amazing condition.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 190,
+    "fields": {
+      "product_id": 48,
+      "customer_id": 5,
+      "review": "The 1994 Golf is surprisingly agile and fun to drive. Good find!",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 191,
+    "fields": {
+      "product_id": 48,
+      "customer_id": 7,
+      "review": "Decent condition for its age. Some minor issues but mechanically sound.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 192,
+    "fields": {
+      "product_id": 48,
+      "customer_id": 5,
+      "review": "Simple engineering and easy to maintain. A classic Golf that's aged well.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 193,
+    "fields": {
+      "product_id": 49,
+      "customer_id": 4,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 194,
+    "fields": {
+      "product_id": 49,
+      "customer_id": 6,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 195,
+    "fields": {
+      "product_id": 49,
+      "customer_id": 7,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 196,
+    "fields": {
+      "product_id": 49,
+      "customer_id": 6,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 197,
+    "fields": {
+      "product_id": 50,
+      "customer_id": 5,
+      "review": "The Golf is a classic! This one's in great shape for a '94 model.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 198,
+    "fields": {
+      "product_id": 50,
+      "customer_id": 7,
+      "review": "Decent little hatchback with character. Some minor issues but runs well.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 199,
+    "fields": {
+      "product_id": 50,
+      "customer_id": 5,
+      "review": "Amazingly well-preserved Golf! Drives like it's much newer.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 200,
+    "fields": {
+      "product_id": 50,
+      "customer_id": 4,
+      "review": "Fun to drive with responsive handling. A great example of the MK3 Golf.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 201,
+    "fields": {
+      "product_id": 51,
+      "customer_id": 6,
+      "review": "The 2008 Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-07"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 202,
+    "fields": {
+      "product_id": 51,
+      "customer_id": 7,
+      "review": "Excellent condition for its age! This Optima has been very well maintained.",
+      "created_date": "2020-02-14"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 203,
+    "fields": {
+      "product_id": 51,
+      "customer_id": 6,
+      "review": "Decent family car with expected wear for a 2008 model. Runs reliably.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 204,
+    "fields": {
+      "product_id": 51,
+      "customer_id": 5,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family sedan.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 205,
+    "fields": {
+      "product_id": 52,
+      "customer_id": 7,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 206,
+    "fields": {
+      "product_id": 52,
+      "customer_id": 5,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 207,
+    "fields": {
+      "product_id": 52,
+      "customer_id": 4,
+      "review": "Decent condition for its age. Some minor wear but drives well.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 208,
+    "fields": {
+      "product_id": 52,
+      "customer_id": 6,
+      "review": "Simple engineering that's stood the test of time. Good example of a MK3 Golf.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 209,
+    "fields": {
+      "product_id": 53,
+      "customer_id": 7,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 210,
+    "fields": {
+      "product_id": 53,
+      "customer_id": 6,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 211,
+    "fields": {
+      "product_id": 53,
+      "customer_id": 5,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 212,
+    "fields": {
+      "product_id": 53,
+      "customer_id": 7,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 213,
+    "fields": {
+      "product_id": 54,
+      "customer_id": 5,
+      "review": "Fantastic example of a 90s Golf! This one is in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 214,
+    "fields": {
+      "product_id": 54,
+      "customer_id": 4,
+      "review": "The 1994 Golf is surprisingly agile and fun to drive. Good find!",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 215,
+    "fields": {
+      "product_id": 54,
+      "customer_id": 6,
+      "review": "Decent condition for its age. Some minor issues but mechanically sound.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 216,
+    "fields": {
+      "product_id": 54,
+      "customer_id": 7,
+      "review": "Simple engineering and easy to maintain. A classic Golf that's aged well.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 217,
+    "fields": {
+      "product_id": 55,
+      "customer_id": 6,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 218,
+    "fields": {
+      "product_id": 55,
+      "customer_id": 5,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 219,
+    "fields": {
+      "product_id": 55,
+      "customer_id": 7,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 220,
+    "fields": {
+      "product_id": 55,
+      "customer_id": 5,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 221,
+    "fields": {
+      "product_id": 56,
+      "customer_id": 4,
+      "review": "The Golf is a classic! This one's in great shape for a '94 model.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 222,
+    "fields": {
+      "product_id": 56,
+      "customer_id": 6,
+      "review": "Decent little hatchback with character. Some minor issues but runs well.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 223,
+    "fields": {
+      "product_id": 56,
+      "customer_id": 7,
+      "review": "Amazingly well-preserved Golf! Drives like it's much newer.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 224,
+    "fields": {
+      "product_id": 56,
+      "customer_id": 6,
+      "review": "Fun to drive with responsive handling. A great example of the MK3 Golf.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 225,
+    "fields": {
+      "product_id": 57,
+      "customer_id": 5,
+      "review": "The 2008 Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 226,
+    "fields": {
+      "product_id": 57,
+      "customer_id": 7,
+      "review": "Excellent condition for its age! This Optima has been very well maintained.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 227,
+    "fields": {
+      "product_id": 57,
+      "customer_id": 5,
+      "review": "Decent family car with expected wear for a 2008 model. Runs reliably.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 228,
+    "fields": {
+      "product_id": 57,
+      "customer_id": 4,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family sedan.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 229,
+    "fields": {
+      "product_id": 58,
+      "customer_id": 6,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 230,
+    "fields": {
+      "product_id": 58,
+      "customer_id": 7,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 231,
+    "fields": {
+      "product_id": 58,
+      "customer_id": 6,
+      "review": "Decent condition for its age. Some minor wear but drives well.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 232,
+    "fields": {
+      "product_id": 58,
+      "customer_id": 5,
+      "review": "Simple engineering that's stood the test of time. Good example of a MK3 Golf.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 233,
+    "fields": {
+      "product_id": 59,
+      "customer_id": 7,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 234,
+    "fields": {
+      "product_id": 59,
+      "customer_id": 5,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 235,
+    "fields": {
+      "product_id": 59,
+      "customer_id": 4,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 236,
+    "fields": {
+      "product_id": 59,
+      "customer_id": 6,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 237,
+    "fields": {
+      "product_id": 60,
+      "customer_id": 7,
+      "review": "Fantastic example of a 90s Golf! This one is in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 238,
+    "fields": {
+      "product_id": 60,
+      "customer_id": 6,
+      "review": "The 1994 Golf is surprisingly agile and fun to drive. Good find!",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 239,
+    "fields": {
+      "product_id": 60,
+      "customer_id": 5,
+      "review": "Decent condition for its age. Some minor issues but mechanically sound.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 240,
+    "fields": {
+      "product_id": 60,
+      "customer_id": 7,
+      "review": "Simple engineering and easy to maintain. A classic Golf that's aged well.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 241,
+    "fields": {
+      "product_id": 61,
+      "customer_id": 5,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 242,
+    "fields": {
+      "product_id": 61,
+      "customer_id": 4,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 243,
+    "fields": {
+      "product_id": 61,
+      "customer_id": 6,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 244,
+    "fields": {
+      "product_id": 61,
+      "customer_id": 7,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 245,
+    "fields": {
+      "product_id": 62,
+      "customer_id": 6,
+      "review": "The Golf is a classic! This one's in great shape for a '94 model.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 246,
+    "fields": {
+      "product_id": 62,
+      "customer_id": 5,
+      "review": "Decent little hatchback with character. Some minor issues but runs well.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 247,
+    "fields": {
+      "product_id": 62,
+      "customer_id": 7,
+      "review": "Amazingly well-preserved Golf! Drives like it's much newer.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 248,
+    "fields": {
+      "product_id": 62,
+      "customer_id": 5,
+      "review": "Fun to drive with responsive handling. A great example of the MK3 Golf.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 249,
+    "fields": {
+      "product_id": 63,
+      "customer_id": 4,
+      "review": "The 2008 Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 250,
+    "fields": {
+      "product_id": 63,
+      "customer_id": 6,
+      "review": "Excellent condition for its age! This Optima has been very well maintained.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 251,
+    "fields": {
+      "product_id": 63,
+      "customer_id": 7,
+      "review": "Decent family car with expected wear for a 2008 model. Runs reliably.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 252,
+    "fields": {
+      "product_id": 63,
+      "customer_id": 6,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family sedan.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 253,
+    "fields": {
+      "product_id": 64,
+      "customer_id": 5,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 254,
+    "fields": {
+      "product_id": 64,
+      "customer_id": 7,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 255,
+    "fields": {
+      "product_id": 64,
+      "customer_id": 5,
+      "review": "Decent condition for its age. Some minor wear but drives well.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 256,
+    "fields": {
+      "product_id": 64,
+      "customer_id": 4,
+      "review": "Simple engineering that's stood the test of time. Good example of a MK3 Golf.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 257,
+    "fields": {
+      "product_id": 65,
+      "customer_id": 6,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 258,
+    "fields": {
+      "product_id": 65,
+      "customer_id": 7,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 259,
+    "fields": {
+      "product_id": 65,
+      "customer_id": 6,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 260,
+    "fields": {
+      "product_id": 65,
+      "customer_id": 5,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 261,
+    "fields": {
+      "product_id": 66,
+      "customer_id": 7,
+      "review": "Fantastic example of a 90s Golf! This one is in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 262,
+    "fields": {
+      "product_id": 66,
+      "customer_id": 5,
+      "review": "The 1994 Golf is surprisingly agile and fun to drive. Good find!",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 263,
+    "fields": {
+      "product_id": 66,
+      "customer_id": 4,
+      "review": "Decent condition for its age. Some minor issues but mechanically sound.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 264,
+    "fields": {
+      "product_id": 66,
+      "customer_id": 6,
+      "review": "Simple engineering and easy to maintain. A classic Golf that's aged well.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 265,
+    "fields": {
+      "product_id": 67,
+      "customer_id": 7,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 266,
+    "fields": {
+      "product_id": 67,
+      "customer_id": 6,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 267,
+    "fields": {
+      "product_id": 67,
+      "customer_id": 5,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 268,
+    "fields": {
+      "product_id": 67,
+      "customer_id": 7,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 269,
+    "fields": {
+      "product_id": 68,
+      "customer_id": 5,
+      "review": "The Golf is a classic! This one's in great shape for a '94 model.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 270,
+    "fields": {
+      "product_id": 68,
+      "customer_id": 4,
+      "review": "Decent little hatchback with character. Some minor issues but runs well.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 271,
+    "fields": {
+      "product_id": 68,
+      "customer_id": 6,
+      "review": "Amazingly well-preserved Golf! Drives like it's much newer.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 272,
+    "fields": {
+      "product_id": 68,
+      "customer_id": 7,
+      "review": "Fun to drive with responsive handling. A great example of the MK3 Golf.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 273,
+    "fields": {
+      "product_id": 69,
+      "customer_id": 6,
+      "review": "The 2008 Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 274,
+    "fields": {
+      "product_id": 69,
+      "customer_id": 5,
+      "review": "Excellent condition for its age! This Optima has been very well maintained.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 275,
+    "fields": {
+      "product_id": 69,
+      "customer_id": 7,
+      "review": "Decent family car with expected wear for a 2008 model. Runs reliably.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 276,
+    "fields": {
+      "product_id": 69,
+      "customer_id": 5,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family sedan.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 277,
+    "fields": {
+      "product_id": 70,
+      "customer_id": 4,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 278,
+    "fields": {
+      "product_id": 70,
+      "customer_id": 6,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 279,
+    "fields": {
+      "product_id": 70,
+      "customer_id": 7,
+      "review": "Decent condition for its age. Some minor wear but drives well.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 280,
+    "fields": {
+      "product_id": 70,
+      "customer_id": 6,
+      "review": "Simple engineering that's stood the test of time. Good example of a MK3 Golf.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 281,
+    "fields": {
+      "product_id": 71,
+      "customer_id": 5,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 282,
+    "fields": {
+      "product_id": 71,
+      "customer_id": 7,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 283,
+    "fields": {
+      "product_id": 71,
+      "customer_id": 5,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 284,
+    "fields": {
+      "product_id": 71,
+      "customer_id": 4,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 285,
+    "fields": {
+      "product_id": 72,
+      "customer_id": 6,
+      "review": "Fantastic example of a 90s Golf! This one is in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 286,
+    "fields": {
+      "product_id": 72,
+      "customer_id": 7,
+      "review": "The 1994 Golf is surprisingly agile and fun to drive. Good find!",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 287,
+    "fields": {
+      "product_id": 72,
+      "customer_id": 6,
+      "review": "Decent condition for its age. Some minor issues but mechanically sound.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 288,
+    "fields": {
+      "product_id": 72,
+      "customer_id": 5,
+      "review": "Simple engineering and easy to maintain. A classic Golf that's aged well.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 289,
+    "fields": {
+      "product_id": 73,
+      "customer_id": 7,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 290,
+    "fields": {
+      "product_id": 73,
+      "customer_id": 5,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 291,
+    "fields": {
+      "product_id": 73,
+      "customer_id": 4,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 292,
+    "fields": {
+      "product_id": 73,
+      "customer_id": 6,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 293,
+    "fields": {
+      "product_id": 74,
+      "customer_id": 7,
+      "review": "The Golf is a classic! This one's in great shape for a '94 model.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 294,
+    "fields": {
+      "product_id": 74,
+      "customer_id": 6,
+      "review": "Decent little hatchback with character. Some minor issues but runs well.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 295,
+    "fields": {
+      "product_id": 74,
+      "customer_id": 5,
+      "review": "Amazingly well-preserved Golf! Drives like it's much newer.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 296,
+    "fields": {
+      "product_id": 74,
+      "customer_id": 7,
+      "review": "Fun to drive with responsive handling. A great example of the MK3 Golf.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 297,
+    "fields": {
+      "product_id": 75,
+      "customer_id": 5,
+      "review": "The 2008 Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 298,
+    "fields": {
+      "product_id": 75,
+      "customer_id": 4,
+      "review": "Excellent condition for its age! This Optima has been very well maintained.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 299,
+    "fields": {
+      "product_id": 75,
+      "customer_id": 6,
+      "review": "Decent family car with expected wear for a 2008 model. Runs reliably.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 300,
+    "fields": {
+      "product_id": 75,
+      "customer_id": 7,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family sedan.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 301,
+    "fields": {
+      "product_id": 76,
+      "customer_id": 6,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 302,
+    "fields": {
+      "product_id": 76,
+      "customer_id": 5,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 303,
+    "fields": {
+      "product_id": 76,
+      "customer_id": 7,
+      "review": "Decent condition for its age. Some minor wear but drives well.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 304,
+    "fields": {
+      "product_id": 76,
+      "customer_id": 5,
+      "review": "Simple engineering that's stood the test of time. Good example of a MK3 Golf.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 305,
+    "fields": {
+      "product_id": 77,
+      "customer_id": 4,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 306,
+    "fields": {
+      "product_id": 77,
+      "customer_id": 6,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 307,
+    "fields": {
+      "product_id": 77,
+      "customer_id": 7,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 308,
+    "fields": {
+      "product_id": 77,
+      "customer_id": 6,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 309,
+    "fields": {
+      "product_id": 78,
+      "customer_id": 5,
+      "review": "Fantastic example of a 90s Golf! This one is in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 310,
+    "fields": {
+      "product_id": 78,
+      "customer_id": 7,
+      "review": "The 1994 Golf is surprisingly agile and fun to drive. Good find!",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 311,
+    "fields": {
+      "product_id": 78,
+      "customer_id": 5,
+      "review": "Decent condition for its age. Some minor issues but mechanically sound.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 312,
+    "fields": {
+      "product_id": 78,
+      "customer_id": 4,
+      "review": "Simple engineering and easy to maintain. A classic Golf that's aged well.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 313,
+    "fields": {
+      "product_id": 79,
+      "customer_id": 6,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 314,
+    "fields": {
+      "product_id": 79,
+      "customer_id": 7,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 315,
+    "fields": {
+      "product_id": 79,
+      "customer_id": 6,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 316,
+    "fields": {
+      "product_id": 79,
+      "customer_id": 5,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 317,
+    "fields": {
+      "product_id": 80,
+      "customer_id": 7,
+      "review": "The Golf is a classic! This one's in great shape for a '94 model.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 318,
+    "fields": {
+      "product_id": 80,
+      "customer_id": 5,
+      "review": "Decent little hatchback with character. Some minor issues but runs well.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 319,
+    "fields": {
+      "product_id": 80,
+      "customer_id": 4,
+      "review": "Amazingly well-preserved Golf! Drives like it's much newer.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 320,
+    "fields": {
+      "product_id": 80,
+      "customer_id": 6,
+      "review": "Fun to drive with responsive handling. A great example of the MK3 Golf.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 321,
+    "fields": {
+      "product_id": 81,
+      "customer_id": 7,
+      "review": "The 2008 Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 322,
+    "fields": {
+      "product_id": 81,
+      "customer_id": 6,
+      "review": "Excellent condition for its age! This Optima has been very well maintained.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 323,
+    "fields": {
+      "product_id": 81,
+      "customer_id": 5,
+      "review": "Decent family car with expected wear for a 2008 model. Runs reliably.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 324,
+    "fields": {
+      "product_id": 81,
+      "customer_id": 7,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family sedan.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 325,
+    "fields": {
+      "product_id": 82,
+      "customer_id": 5,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 326,
+    "fields": {
+      "product_id": 82,
+      "customer_id": 4,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 327,
+    "fields": {
+      "product_id": 82,
+      "customer_id": 6,
+      "review": "Decent condition for its age. Some minor wear but drives well.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 328,
+    "fields": {
+      "product_id": 82,
+      "customer_id": 7,
+      "review": "Simple engineering that's stood the test of time. Good example of a MK3 Golf.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 329,
+    "fields": {
+      "product_id": 83,
+      "customer_id": 6,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 330,
+    "fields": {
+      "product_id": 83,
+      "customer_id": 5,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 331,
+    "fields": {
+      "product_id": 83,
+      "customer_id": 7,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 332,
+    "fields": {
+      "product_id": 83,
+      "customer_id": 5,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 333,
+    "fields": {
+      "product_id": 84,
+      "customer_id": 4,
+      "review": "Fantastic example of a 90s Golf! This one is in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 334,
+    "fields": {
+      "product_id": 84,
+      "customer_id": 6,
+      "review": "The 1994 Golf is surprisingly agile and fun to drive. Good find!",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 335,
+    "fields": {
+      "product_id": 84,
+      "customer_id": 7,
+      "review": "Decent condition for its age. Some minor issues but mechanically sound.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 336,
+    "fields": {
+      "product_id": 84,
+      "customer_id": 6,
+      "review": "Simple engineering and easy to maintain. A classic Golf that's aged well.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 337,
+    "fields": {
+      "product_id": 85,
+      "customer_id": 5,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 338,
+    "fields": {
+      "product_id": 85,
+      "customer_id": 7,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 339,
+    "fields": {
+      "product_id": 85,
+      "customer_id": 5,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 340,
+    "fields": {
+      "product_id": 85,
+      "customer_id": 4,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 341,
+    "fields": {
+      "product_id": 86,
+      "customer_id": 6,
+      "review": "The Golf is a classic! This one's in great shape for a '94 model.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 342,
+    "fields": {
+      "product_id": 86,
+      "customer_id": 7,
+      "review": "Decent little hatchback with character. Some minor issues but runs well.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 343,
+    "fields": {
+      "product_id": 86,
+      "customer_id": 6,
+      "review": "Amazingly well-preserved Golf! Drives like it's much newer.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 344,
+    "fields": {
+      "product_id": 86,
+      "customer_id": 5,
+      "review": "Fun to drive with responsive handling. A great example of the MK3 Golf.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 345,
+    "fields": {
+      "product_id": 87,
+      "customer_id": 7,
+      "review": "The 2008 Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 346,
+    "fields": {
+      "product_id": 87,
+      "customer_id": 5,
+      "review": "Excellent condition for its age! This Optima has been very well maintained.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 347,
+    "fields": {
+      "product_id": 87,
+      "customer_id": 4,
+      "review": "Decent family car with expected wear for a 2008 model. Runs reliably.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 348,
+    "fields": {
+      "product_id": 87,
+      "customer_id": 6,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family sedan.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 349,
+    "fields": {
+      "product_id": 88,
+      "customer_id": 7,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 350,
+    "fields": {
+      "product_id": 88,
+      "customer_id": 6,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 351,
+    "fields": {
+      "product_id": 88,
+      "customer_id": 5,
+      "review": "Decent condition for its age. Some minor wear but drives well.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 352,
+    "fields": {
+      "product_id": 88,
+      "customer_id": 7,
+      "review": "Simple engineering that's stood the test of time. Good example of a MK3 Golf.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 353,
+    "fields": {
+      "product_id": 89,
+      "customer_id": 5,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 354,
+    "fields": {
+      "product_id": 89,
+      "customer_id": 4,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 355,
+    "fields": {
+      "product_id": 89,
+      "customer_id": 6,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 356,
+    "fields": {
+      "product_id": 89,
+      "customer_id": 7,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 357,
+    "fields": {
+      "product_id": 90,
+      "customer_id": 6,
+      "review": "Fantastic example of a 90s Golf! This one is in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 358,
+    "fields": {
+      "product_id": 90,
+      "customer_id": 5,
+      "review": "The 1994 Golf is surprisingly agile and fun to drive. Good find!",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 359,
+    "fields": {
+      "product_id": 90,
+      "customer_id": 7,
+      "review": "Decent condition for its age. Some minor issues but mechanically sound.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 360,
+    "fields": {
+      "product_id": 90,
+      "customer_id": 5,
+      "review": "Simple engineering and easy to maintain. A classic Golf that's aged well.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 361,
+    "fields": {
+      "product_id": 91,
+      "customer_id": 4,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 362,
+    "fields": {
+      "product_id": 91,
+      "customer_id": 6,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 363,
+    "fields": {
+      "product_id": 91,
+      "customer_id": 7,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 364,
+    "fields": {
+      "product_id": 91,
+      "customer_id": 6,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 365,
+    "fields": {
+      "product_id": 92,
+      "customer_id": 5,
+      "review": "The Golf is a classic! This one's in great shape for a '94 model.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 366,
+    "fields": {
+      "product_id": 92,
+      "customer_id": 7,
+      "review": "Decent little hatchback with character. Some minor issues but runs well.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 367,
+    "fields": {
+      "product_id": 92,
+      "customer_id": 5,
+      "review": "Amazingly well-preserved Golf! Drives like it's much newer.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 368,
+    "fields": {
+      "product_id": 92,
+      "customer_id": 4,
+      "review": "Fun to drive with responsive handling. A great example of the MK3 Golf.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 369,
+    "fields": {
+      "product_id": 93,
+      "customer_id": 6,
+      "review": "The 2008 Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 370,
+    "fields": {
+      "product_id": 93,
+      "customer_id": 7,
+      "review": "Excellent condition for its age! This Optima has been very well maintained.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 371,
+    "fields": {
+      "product_id": 93,
+      "customer_id": 6,
+      "review": "Decent family car with expected wear for a 2008 model. Runs reliably.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 372,
+    "fields": {
+      "product_id": 93,
+      "customer_id": 5,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family sedan.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 373,
+    "fields": {
+      "product_id": 94,
+      "customer_id": 7,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 374,
+    "fields": {
+      "product_id": 94,
+      "customer_id": 5,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 375,
+    "fields": {
+      "product_id": 94,
+      "customer_id": 4,
+      "review": "Decent condition for its age. Some minor wear but drives well.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 376,
+    "fields": {
+      "product_id": 94,
+      "customer_id": 6,
+      "review": "Simple engineering that's stood the test of time. Good example of a MK3 Golf.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 377,
+    "fields": {
+      "product_id": 95,
+      "customer_id": 7,
+      "review": "The Optima is reliable and comfortable. Good value sedan.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 378,
+    "fields": {
+      "product_id": 95,
+      "customer_id": 6,
+      "review": "Excellent condition! This 2008 Optima has clearly been well cared for.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 379,
+    "fields": {
+      "product_id": 95,
+      "customer_id": 5,
+      "review": "Decent family sedan with expected wear and tear. Runs reliably.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 380,
+    "fields": {
+      "product_id": 95,
+      "customer_id": 7,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family car.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 381,
+    "fields": {
+      "product_id": 96,
+      "customer_id": 5,
+      "review": "Fantastic example of a 90s Golf! This one is in amazing condition.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 382,
+    "fields": {
+      "product_id": 96,
+      "customer_id": 4,
+      "review": "The 1994 Golf is surprisingly agile and fun to drive. Good find!",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 383,
+    "fields": {
+      "product_id": 96,
+      "customer_id": 6,
+      "review": "Decent condition for its age. Some minor issues but mechanically sound.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 384,
+    "fields": {
+      "product_id": 96,
+      "customer_id": 7,
+      "review": "Simple engineering and easy to maintain. A classic Golf that's aged well.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 385,
+    "fields": {
+      "product_id": 97,
+      "customer_id": 6,
+      "review": "The 2008 Optima offers good value and comfort. Reliable sedan.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 386,
+    "fields": {
+      "product_id": 97,
+      "customer_id": 5,
+      "review": "Excellent condition for a 12-year-old car! Well maintained Optima.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 387,
+    "fields": {
+      "product_id": 97,
+      "customer_id": 7,
+      "review": "Decent family sedan with some wear as expected. Runs reliably.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 388,
+    "fields": {
+      "product_id": 97,
+      "customer_id": 5,
+      "review": "Good fuel economy and comfortable ride. A practical choice.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 389,
+    "fields": {
+      "product_id": 98,
+      "customer_id": 4,
+      "review": "The Golf is a classic! This one's in great shape for a '94 model.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 390,
+    "fields": {
+      "product_id": 98,
+      "customer_id": 6,
+      "review": "Decent little hatchback with character. Some minor issues but runs well.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 391,
+    "fields": {
+      "product_id": 98,
+      "customer_id": 7,
+      "review": "Amazingly well-preserved Golf! Drives like it's much newer.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 392,
+    "fields": {
+      "product_id": 98,
+      "customer_id": 6,
+      "review": "Fun to drive with responsive handling. A great example of the MK3 Golf.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 393,
+    "fields": {
+      "product_id": 99,
+      "customer_id": 5,
+      "review": "The 2008 Optima is a comfortable and practical sedan. Good value.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 394,
+    "fields": {
+      "product_id": 99,
+      "customer_id": 7,
+      "review": "Excellent condition for its age! This Optima has been very well maintained.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 395,
+    "fields": {
+      "product_id": 99,
+      "customer_id": 5,
+      "review": "Decent family car with expected wear for a 2008 model. Runs reliably.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 396,
+    "fields": {
+      "product_id": 99,
+      "customer_id": 4,
+      "review": "Good fuel economy and spacious interior. Solid choice for a family sedan.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 397,
+    "fields": {
+      "product_id": 100,
+      "customer_id": 6,
+      "review": "The 1994 Golf is a true classic! This one's in amazing condition.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 398,
+    "fields": {
+      "product_id": 100,
+      "customer_id": 7,
+      "review": "Fun little hatchback with character. Well preserved example.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 399,
+    "fields": {
+      "product_id": 100,
+      "customer_id": 6,
+      "review": "Decent condition for its age. Some minor wear but drives well.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 400,
+    "fields": {
+      "product_id": 100,
+      "customer_id": 5,
+      "review": "Simple engineering that's stood the test of time. Good example of a MK3 Golf.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 401,
+    "fields": {
+      "product_id": 101,
+      "customer_id": 7,
+      "review": "This woolen scarf is incredibly soft and warm. Perfect for cold weather!",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 402,
+    "fields": {
+      "product_id": 101,
+      "customer_id": 5,
+      "review": "Great quality scarf with nice texture. Keeps me warm on chilly days.",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 403,
+    "fields": {
+      "product_id": 101,
+      "customer_id": 4,
+      "review": "The wool is high quality and doesn't irritate my skin. Very pleased with this purchase.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 404,
+    "fields": {
+      "product_id": 101,
+      "customer_id": 6,
+      "review": "Nice length and width, keeps my neck warm without being bulky. Good value.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 405,
+    "fields": {
+      "product_id": 102,
+      "customer_id": 7,
+      "review": "These athletic shorts are comfortable and breathable. Great for running.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 406,
+    "fields": {
+      "product_id": 102,
+      "customer_id": 6,
+      "review": "Perfect fit and very lightweight. The material wicks away sweat effectively.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 407,
+    "fields": {
+      "product_id": 102,
+      "customer_id": 5,
+      "review": "Decent shorts but the pockets are a bit small. Otherwise comfortable for workouts.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 408,
+    "fields": {
+      "product_id": 102,
+      "customer_id": 7,
+      "review": "Good quality athletic shorts. The material is durable and they wash well.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 409,
+    "fields": {
+      "product_id": 103,
+      "customer_id": 5,
+      "review": "This baseball cap is stylish and fits perfectly. Great quality!",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 410,
+    "fields": {
+      "product_id": 103,
+      "customer_id": 4,
+      "review": "Nice hat with good sun protection. The adjustable strap makes it easy to get the right fit.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 411,
+    "fields": {
+      "product_id": 103,
+      "customer_id": 6,
+      "review": "The quality of this cap is excellent. The material is durable and it keeps its shape.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 412,
+    "fields": {
+      "product_id": 103,
+      "customer_id": 7,
+      "review": "Comfortable fit and good looking design. Works well for casual wear.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 413,
+    "fields": {
+      "product_id": 104,
+      "customer_id": 6,
+      "review": "This cotton t-shirt is very comfortable and fits well. Good quality fabric.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 414,
+    "fields": {
+      "product_id": 104,
+      "customer_id": 5,
+      "review": "Excellent t-shirt! The cotton is soft and it's holding up well after multiple washes.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 415,
+    "fields": {
+      "product_id": 104,
+      "customer_id": 7,
+      "review": "Decent t-shirt but runs a bit small. The material is good quality though.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 416,
+    "fields": {
+      "product_id": 104,
+      "customer_id": 5,
+      "review": "Nice everyday t-shirt. The fabric breathes well and it's comfortable for all-day wear.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 417,
+    "fields": {
+      "product_id": 105,
+      "customer_id": 4,
+      "review": "These cotton socks are incredibly comfortable. Great value for a pack of 5!",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 418,
+    "fields": {
+      "product_id": 105,
+      "customer_id": 6,
+      "review": "Good quality socks that hold up well in the wash. Comfortable for everyday wear.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 419,
+    "fields": {
+      "product_id": 105,
+      "customer_id": 7,
+      "review": "These socks fit perfectly and don't slide down. The cotton is soft and breathable.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 420,
+    "fields": {
+      "product_id": 105,
+      "customer_id": 6,
+      "review": "Nice thickness - not too thin, not too bulky. Good for everyday use.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 421,
+    "fields": {
+      "product_id": 106,
+      "customer_id": 5,
+      "review": "This knitted sweater is incredibly warm and cozy. Perfect for winter!",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 422,
+    "fields": {
+      "product_id": 106,
+      "customer_id": 7,
+      "review": "Great quality sweater with nice detailing. The knit pattern is beautiful.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 423,
+    "fields": {
+      "product_id": 106,
+      "customer_id": 5,
+      "review": "The wool blend is soft and not itchy at all. Very comfortable to wear all day.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 424,
+    "fields": {
+      "product_id": 106,
+      "customer_id": 4,
+      "review": "Well-made sweater that keeps its shape after washing. Good value for the price.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 425,
+    "fields": {
+      "product_id": 107,
+      "customer_id": 6,
+      "review": "This evening dress is absolutely stunning! The fabric is high quality and it fits perfectly.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 426,
+    "fields": {
+      "product_id": 107,
+      "customer_id": 7,
+      "review": "Beautiful dress with elegant styling. The material drapes nicely and it's comfortable to wear.",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 427,
+    "fields": {
+      "product_id": 107,
+      "customer_id": 6,
+      "review": "The craftsmanship on this dress is excellent. The details are well executed.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 428,
+    "fields": {
+      "product_id": 107,
+      "customer_id": 5,
+      "review": "Lovely evening dress that's perfect for formal occasions. Received many compliments!",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 429,
+    "fields": {
+      "product_id": 108,
+      "customer_id": 7,
+      "review": "These cotton socks are comfortable and durable. Great value for a pack of 5.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 430,
+    "fields": {
+      "product_id": 108,
+      "customer_id": 5,
+      "review": "Excellent quality socks that hold up well after multiple washes. Very comfortable.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 431,
+    "fields": {
+      "product_id": 108,
+      "customer_id": 4,
+      "review": "Decent socks but a bit thin. They're comfortable though and fit well.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 432,
+    "fields": {
+      "product_id": 108,
+      "customer_id": 6,
+      "review": "Good everyday socks. The elastic holds up well and they don't slide down.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 433,
+    "fields": {
+      "product_id": 109,
+      "customer_id": 7,
+      "review": "These jeans fit perfectly! The denim is high quality and the classic fit is very flattering.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 434,
+    "fields": {
+      "product_id": 109,
+      "customer_id": 6,
+      "review": "Good quality denim jeans. The stitching is solid and they're comfortable to wear.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 435,
+    "fields": {
+      "product_id": 109,
+      "customer_id": 5,
+      "review": "These jeans are durable and maintain their shape well. The blue denim color is perfect.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 436,
+    "fields": {
+      "product_id": 109,
+      "customer_id": 7,
+      "review": "Classic fit jeans that are versatile for many occasions. Good value for the price.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 437,
+    "fields": {
+      "product_id": 110,
+      "customer_id": 5,
+      "review": "This knitted sweater is so warm and cozy! The quality is excellent.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 438,
+    "fields": {
+      "product_id": 110,
+      "customer_id": 4,
+      "review": "Nice sweater with good craftsmanship. The knit pattern is attractive and it fits well.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 439,
+    "fields": {
+      "product_id": 110,
+      "customer_id": 6,
+      "review": "The material is soft and not itchy at all. Very comfortable for all-day wear.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 440,
+    "fields": {
+      "product_id": 110,
+      "customer_id": 7,
+      "review": "Well-made sweater that keeps its shape after washing. Perfect for cold weather.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 441,
+    "fields": {
+      "product_id": 111,
+      "customer_id": 6,
+      "review": "These athletic shorts are comfortable and perfect for running. Good quality material.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 442,
+    "fields": {
+      "product_id": 111,
+      "customer_id": 5,
+      "review": "Great shorts for workouts! The fabric is lightweight and dries quickly.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 443,
+    "fields": {
+      "product_id": 111,
+      "customer_id": 7,
+      "review": "These shorts fit well and have a good range of motion. Perfect for running.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 444,
+    "fields": {
+      "product_id": 111,
+      "customer_id": 5,
+      "review": "Decent athletic shorts. The material is good but the pockets could be deeper.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 445,
+    "fields": {
+      "product_id": 112,
+      "customer_id": 4,
+      "review": "These cotton socks are incredibly comfortable. Great value for a pack of 5!",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 446,
+    "fields": {
+      "product_id": 112,
+      "customer_id": 6,
+      "review": "Good quality socks that hold up well in the wash. Comfortable for everyday wear.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 447,
+    "fields": {
+      "product_id": 112,
+      "customer_id": 7,
+      "review": "These socks fit perfectly and don't slide down. The cotton is soft and breathable.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 448,
+    "fields": {
+      "product_id": 112,
+      "customer_id": 6,
+      "review": "Nice thickness - not too thin, not too bulky. Good for everyday use.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 449,
+    "fields": {
+      "product_id": 113,
+      "customer_id": 5,
+      "review": "These athletic shorts are comfortable and breathable. Great for running.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 450,
+    "fields": {
+      "product_id": 113,
+      "customer_id": 7,
+      "review": "Perfect fit and very lightweight. The material wicks away sweat effectively.",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 451,
+    "fields": {
+      "product_id": 113,
+      "customer_id": 5,
+      "review": "Decent shorts but the pockets are a bit small. Otherwise comfortable for workouts.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 452,
+    "fields": {
+      "product_id": 113,
+      "customer_id": 4,
+      "review": "Good quality athletic shorts. The material is durable and they wash well.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 453,
+    "fields": {
+      "product_id": 114,
+      "customer_id": 6,
+      "review": "This baseball cap is stylish and fits perfectly. Great quality!",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 454,
+    "fields": {
+      "product_id": 114,
+      "customer_id": 7,
+      "review": "Nice hat with good sun protection. The adjustable strap makes it easy to get the right fit.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 455,
+    "fields": {
+      "product_id": 114,
+      "customer_id": 6,
+      "review": "The quality of this cap is excellent. The material is durable and it keeps its shape.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 456,
+    "fields": {
+      "product_id": 114,
+      "customer_id": 5,
+      "review": "Comfortable fit and good looking design. Works well for casual wear.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 457,
+    "fields": {
+      "product_id": 115,
+      "customer_id": 7,
+      "review": "This cotton t-shirt is very comfortable and fits well. Good quality fabric.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 458,
+    "fields": {
+      "product_id": 115,
+      "customer_id": 5,
+      "review": "Excellent t-shirt! The cotton is soft and it's holding up well after multiple washes.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 459,
+    "fields": {
+      "product_id": 115,
+      "customer_id": 4,
+      "review": "Decent t-shirt but runs a bit small. The material is good quality though.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 460,
+    "fields": {
+      "product_id": 115,
+      "customer_id": 6,
+      "review": "Nice everyday t-shirt. The fabric breathes well and it's comfortable for all-day wear.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 461,
+    "fields": {
+      "product_id": 116,
+      "customer_id": 7,
+      "review": "These jeans fit perfectly! The denim is high quality and the classic fit is very flattering.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 462,
+    "fields": {
+      "product_id": 116,
+      "customer_id": 6,
+      "review": "Good quality denim jeans. The stitching is solid and they're comfortable to wear.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 463,
+    "fields": {
+      "product_id": 116,
+      "customer_id": 5,
+      "review": "These jeans are durable and maintain their shape well. The blue denim color is perfect.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 464,
+    "fields": {
+      "product_id": 116,
+      "customer_id": 7,
+      "review": "Classic fit jeans that are versatile for many occasions. Good value for the price.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 465,
+    "fields": {
+      "product_id": 117,
+      "customer_id": 5,
+      "review": "These cotton socks are comfortable and durable. Great value for a pack of 5.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 466,
+    "fields": {
+      "product_id": 117,
+      "customer_id": 4,
+      "review": "Excellent quality socks that hold up well after multiple washes. Very comfortable.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 467,
+    "fields": {
+      "product_id": 117,
+      "customer_id": 6,
+      "review": "Decent socks but a bit thin. They're comfortable though and fit well.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 468,
+    "fields": {
+      "product_id": 117,
+      "customer_id": 7,
+      "review": "Good everyday socks. The elastic holds up well and they don't slide down.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 469,
+    "fields": {
+      "product_id": 118,
+      "customer_id": 6,
+      "review": "This outdoor jacket is perfect for rainy days! Completely water-resistant.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 470,
+    "fields": {
+      "product_id": 118,
+      "customer_id": 5,
+      "review": "Good quality jacket with nice features. The hood is well-designed and stays in place.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 471,
+    "fields": {
+      "product_id": 118,
+      "customer_id": 7,
+      "review": "This jacket keeps me dry in heavy rain. The material is durable and breathable.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 472,
+    "fields": {
+      "product_id": 118,
+      "customer_id": 5,
+      "review": "Nice lightweight jacket that packs down small. Perfect for hiking and outdoor activities.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 473,
+    "fields": {
+      "product_id": 119,
+      "customer_id": 4,
+      "review": "These jeans fit perfectly! The denim is high quality and the classic fit is very flattering.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 474,
+    "fields": {
+      "product_id": 119,
+      "customer_id": 6,
+      "review": "Good quality denim jeans. The stitching is solid and they're comfortable to wear.",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 475,
+    "fields": {
+      "product_id": 119,
+      "customer_id": 7,
+      "review": "These jeans are durable and maintain their shape well. The blue denim color is perfect.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 476,
+    "fields": {
+      "product_id": 119,
+      "customer_id": 6,
+      "review": "Classic fit jeans that are versatile for many occasions. Good value for the price.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 477,
+    "fields": {
+      "product_id": 120,
+      "customer_id": 5,
+      "review": "This cotton t-shirt is very comfortable and fits well. Good quality fabric.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 478,
+    "fields": {
+      "product_id": 120,
+      "customer_id": 7,
+      "review": "Excellent t-shirt! The cotton is soft and it's holding up well after multiple washes.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 479,
+    "fields": {
+      "product_id": 120,
+      "customer_id": 5,
+      "review": "Decent t-shirt but runs a bit small. The material is good quality though.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 480,
+    "fields": {
+      "product_id": 120,
+      "customer_id": 4,
+      "review": "Nice everyday t-shirt. The fabric breathes well and it's comfortable for all-day wear.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 481,
+    "fields": {
+      "product_id": 121,
+      "customer_id": 6,
+      "review": "This outdoor jacket is perfect for rainy days! Completely water-resistant.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 482,
+    "fields": {
+      "product_id": 121,
+      "customer_id": 7,
+      "review": "Good quality jacket with nice features. The hood is well-designed and stays in place.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 483,
+    "fields": {
+      "product_id": 121,
+      "customer_id": 6,
+      "review": "This jacket keeps me dry in heavy rain. The material is durable and breathable.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 484,
+    "fields": {
+      "product_id": 121,
+      "customer_id": 5,
+      "review": "Nice lightweight jacket that packs down small. Perfect for hiking and outdoor activities.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 485,
+    "fields": {
+      "product_id": 122,
+      "customer_id": 7,
+      "review": "This woolen scarf is incredibly soft and warm. Perfect for cold weather!",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 486,
+    "fields": {
+      "product_id": 122,
+      "customer_id": 5,
+      "review": "Great quality scarf with nice texture. Keeps me warm on chilly days.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 487,
+    "fields": {
+      "product_id": 122,
+      "customer_id": 4,
+      "review": "The wool is high quality and doesn't irritate my skin. Very pleased with this purchase.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 488,
+    "fields": {
+      "product_id": 122,
+      "customer_id": 6,
+      "review": "Nice length and width, keeps my neck warm without being bulky. Good value.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 489,
+    "fields": {
+      "product_id": 123,
+      "customer_id": 7,
+      "review": "These leather gloves are excellent quality and the touchscreen compatibility works perfectly!",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 490,
+    "fields": {
+      "product_id": 123,
+      "customer_id": 6,
+      "review": "Good quality gloves that keep my hands warm. The touchscreen feature is very convenient.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 491,
+    "fields": {
+      "product_id": 123,
+      "customer_id": 5,
+      "review": "The leather is soft and supple, and the gloves fit perfectly. Great for cold weather.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 492,
+    "fields": {
+      "product_id": 123,
+      "customer_id": 7,
+      "review": "Well-made gloves with nice details. The touchscreen compatibility is a great feature.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 493,
+    "fields": {
+      "product_id": 124,
+      "customer_id": 5,
+      "review": "These jeans fit perfectly! The denim is high quality and the classic fit is very flattering.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 494,
+    "fields": {
+      "product_id": 124,
+      "customer_id": 4,
+      "review": "Good quality denim jeans. The stitching is solid and they're comfortable to wear.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 495,
+    "fields": {
+      "product_id": 124,
+      "customer_id": 6,
+      "review": "These jeans are durable and maintain their shape well. The blue denim color is perfect.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 496,
+    "fields": {
+      "product_id": 124,
+      "customer_id": 7,
+      "review": "Classic fit jeans that are versatile for many occasions. Good value for the price.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 497,
+    "fields": {
+      "product_id": 125,
+      "customer_id": 6,
+      "review": "This outdoor jacket is perfect for rainy days! Completely water-resistant.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 498,
+    "fields": {
+      "product_id": 125,
+      "customer_id": 5,
+      "review": "Good quality jacket with nice features. The hood is well-designed and stays in place.",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 499,
+    "fields": {
+      "product_id": 125,
+      "customer_id": 7,
+      "review": "This jacket keeps me dry in heavy rain. The material is durable and breathable.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 500,
+    "fields": {
+      "product_id": 125,
+      "customer_id": 5,
+      "review": "Nice lightweight jacket that packs down small. Perfect for hiking and outdoor activities.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 501,
+    "fields": {
+      "product_id": 131,
+      "customer_id": 4,
+      "review": "These heavy-duty pliers are excellent quality. Perfect grip and leverage for tough jobs.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 502,
+    "fields": {
+      "product_id": 131,
+      "customer_id": 6,
+      "review": "Good quality pliers that handle bending materials with ease. Comfortable grip.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 503,
+    "fields": {
+      "product_id": 131,
+      "customer_id": 7,
+      "review": "These pliers are built to last. The jaws align perfectly and the cutting edge is sharp.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 504,
+    "fields": {
+      "product_id": 131,
+      "customer_id": 6,
+      "review": "Solid construction and good weight. These pliers handle tough jobs with ease.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 505,
+    "fields": {
+      "product_id": 132,
+      "customer_id": 5,
+      "review": "This 24-inch level is perfectly calibrated and very accurate. Great quality tool.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 506,
+    "fields": {
+      "product_id": 132,
+      "customer_id": 7,
+      "review": "Good quality level with clear vials that are easy to read. Sturdy construction.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 507,
+    "fields": {
+      "product_id": 132,
+      "customer_id": 5,
+      "review": "This level is durable and maintains its accuracy. The edges are straight and true.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 508,
+    "fields": {
+      "product_id": 132,
+      "customer_id": 4,
+      "review": "Well-made level that's perfect for ensuring straight lines. Good value for the price.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 509,
+    "fields": {
+      "product_id": 133,
+      "customer_id": 6,
+      "review": "These heavy-duty pliers are excellent quality. Perfect grip and leverage for tough jobs.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 510,
+    "fields": {
+      "product_id": 133,
+      "customer_id": 7,
+      "review": "Good quality pliers that handle bending materials with ease. Comfortable grip.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 511,
+    "fields": {
+      "product_id": 133,
+      "customer_id": 6,
+      "review": "These pliers are built to last. The jaws align perfectly and the cutting edge is sharp.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 512,
+    "fields": {
+      "product_id": 133,
+      "customer_id": 5,
+      "review": "Solid construction and good weight. These pliers handle tough jobs with ease.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 513,
+    "fields": {
+      "product_id": 134,
+      "customer_id": 7,
+      "review": "This utility knife is extremely sharp and the blade replacement mechanism works smoothly.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 514,
+    "fields": {
+      "product_id": 134,
+      "customer_id": 5,
+      "review": "Good quality utility knife with a comfortable grip. The blade locks securely in place.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 515,
+    "fields": {
+      "product_id": 134,
+      "customer_id": 4,
+      "review": "This knife makes clean, precise cuts. The blade replacement is quick and easy.",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 516,
+    "fields": {
+      "product_id": 134,
+      "customer_id": 6,
+      "review": "Well-designed utility knife that feels solid in the hand. Good value for the price.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 517,
+    "fields": {
+      "product_id": 135,
+      "customer_id": 7,
+      "review": "This wrench set is comprehensive and well-made. Every size I need is included.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 518,
+    "fields": {
+      "product_id": 135,
+      "customer_id": 6,
+      "review": "Good quality wrench set with a nice finish. The wrenches have a good feel in the hand.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 519,
+    "fields": {
+      "product_id": 135,
+      "customer_id": 5,
+      "review": "These wrenches are precisely sized and grip nuts and bolts securely. Great set!",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 520,
+    "fields": {
+      "product_id": 135,
+      "customer_id": 7,
+      "review": "Well-made wrench set that comes in a convenient storage case. Good value for the price.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 521,
+    "fields": {
+      "product_id": 136,
+      "customer_id": 5,
+      "review": "These heavy-duty pliers are excellent quality. Perfect grip and leverage for tough jobs.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 522,
+    "fields": {
+      "product_id": 136,
+      "customer_id": 4,
+      "review": "Good quality pliers that handle bending materials with ease. Comfortable grip.",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 523,
+    "fields": {
+      "product_id": 136,
+      "customer_id": 6,
+      "review": "These pliers are built to last. The jaws align perfectly and the cutting edge is sharp.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 524,
+    "fields": {
+      "product_id": 136,
+      "customer_id": 7,
+      "review": "Solid construction and good weight. These pliers handle tough jobs with ease.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 525,
+    "fields": {
+      "product_id": 137,
+      "customer_id": 6,
+      "review": "This utility knife is extremely sharp and the blade replacement mechanism works smoothly.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 526,
+    "fields": {
+      "product_id": 137,
+      "customer_id": 5,
+      "review": "Good quality utility knife with a comfortable grip. The blade locks securely in place.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 527,
+    "fields": {
+      "product_id": 137,
+      "customer_id": 7,
+      "review": "This knife makes clean, precise cuts. The blade replacement is quick and easy.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 528,
+    "fields": {
+      "product_id": 137,
+      "customer_id": 5,
+      "review": "Well-designed utility knife that feels solid in the hand. Good value for the price.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 529,
+    "fields": {
+      "product_id": 138,
+      "customer_id": 4,
+      "review": "This electric drill is powerful and the variable speed control works perfectly.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 530,
+    "fields": {
+      "product_id": 138,
+      "customer_id": 6,
+      "review": "Good quality drill with a comfortable grip. The battery life is impressive.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 531,
+    "fields": {
+      "product_id": 138,
+      "customer_id": 7,
+      "review": "This drill has plenty of torque for tough jobs. The chuck holds bits securely.",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 532,
+    "fields": {
+      "product_id": 138,
+      "customer_id": 6,
+      "review": "Well-balanced drill that's not too heavy. The variable speed control is very responsive.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 533,
+    "fields": {
+      "product_id": 139,
+      "customer_id": 5,
+      "review": "This wrench set is comprehensive and well-made. Every size I need is included.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 534,
+    "fields": {
+      "product_id": 139,
+      "customer_id": 7,
+      "review": "Good quality wrench set with a nice finish. The wrenches have a good feel in the hand.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 535,
+    "fields": {
+      "product_id": 139,
+      "customer_id": 5,
+      "review": "These wrenches are precisely sized and grip nuts and bolts securely. Great set!",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 536,
+    "fields": {
+      "product_id": 139,
+      "customer_id": 4,
+      "review": "Well-made wrench set that comes in a convenient storage case. Good value for the price.",
+      "created_date": "2020-04-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 537,
+    "fields": {
+      "product_id": 140,
+      "customer_id": 6,
+      "review": "This screwdriver set includes all the sizes I need. The handles provide excellent grip.",
+      "created_date": "2020-01-10"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 538,
+    "fields": {
+      "product_id": 140,
+      "customer_id": 7,
+      "review": "Good quality screwdrivers with magnetic tips. The handles are comfortable to use.",
+      "created_date": "2020-02-17"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 539,
+    "fields": {
+      "product_id": 140,
+      "customer_id": 6,
+      "review": "These screwdrivers have precisely machined tips that fit screws perfectly. Great set!",
+      "created_date": "2020-03-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 540,
+    "fields": {
+      "product_id": 140,
+      "customer_id": 5,
+      "review": "Well-made screwdriver set that comes in a convenient storage case. Good value.",
+      "created_date": "2020-04-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 541,
+    "fields": {
+      "product_id": 141,
+      "customer_id": 7,
+      "review": "This utility knife is extremely sharp and the blade replacement mechanism works smoothly.",
+      "created_date": "2020-01-13"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 542,
+    "fields": {
+      "product_id": 141,
+      "customer_id": 5,
+      "review": "Good quality utility knife with a comfortable grip. The blade locks securely in place.",
+      "created_date": "2020-02-20"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 543,
+    "fields": {
+      "product_id": 141,
+      "customer_id": 4,
+      "review": "This knife makes clean, precise cuts. The blade replacement is quick and easy.",
+      "created_date": "2020-03-26"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 544,
+    "fields": {
+      "product_id": 141,
+      "customer_id": 6,
+      "review": "Well-designed utility knife that feels solid in the hand. Good value for the price.",
+      "created_date": "2020-04-23"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 545,
+    "fields": {
+      "product_id": 142,
+      "customer_id": 7,
+      "review": "This chisel set is excellent quality. The edges are sharp and hold up well to use.",
+      "created_date": "2020-01-08"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 546,
+    "fields": {
+      "product_id": 142,
+      "customer_id": 6,
+      "review": "Good quality chisels with comfortable handles. They hold their edge well.",
+      "created_date": "2020-02-15"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 547,
+    "fields": {
+      "product_id": 142,
+      "customer_id": 5,
+      "review": "These chisels make clean, precise cuts in wood. The set includes all the sizes I need.",
+      "created_date": "2020-03-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 548,
+    "fields": {
+      "product_id": 142,
+      "customer_id": 7,
+      "review": "Well-balanced chisels that are comfortable to use. Good value for woodworking projects.",
+      "created_date": "2020-04-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 549,
+    "fields": {
+      "product_id": 143,
+      "customer_id": 5,
+      "review": "This circular saw is powerful and makes clean, straight cuts. The depth adjustment is easy to use.",
+      "created_date": "2020-01-11"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 550,
+    "fields": {
+      "product_id": 143,
+      "customer_id": 4,
+      "review": "Good quality saw with a comfortable grip. The blade guard works smoothly.",
+      "created_date": "2020-02-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 551,
+    "fields": {
+      "product_id": 143,
+      "customer_id": 6,
+      "review": "This saw has plenty of power for cutting through thick wood. The bevel adjustment is accurate.",
+      "created_date": "2020-03-24"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 552,
+    "fields": {
+      "product_id": 143,
+      "customer_id": 7,
+      "review": "Well-balanced saw that's not too heavy. The included blade is sharp and cuts cleanly.",
+      "created_date": "2020-04-21"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 553,
+    "fields": {
+      "product_id": 144,
+      "customer_id": 6,
+      "review": "This wrench set is comprehensive and well-made. Every size I need is included.",
+      "created_date": "2020-01-09"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 554,
+    "fields": {
+      "product_id": 144,
+      "customer_id": 5,
+      "review": "Good quality wrench set with a nice finish. The wrenches have a good feel in the hand.",
+      "created_date": "2020-02-16"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 555,
+    "fields": {
+      "product_id": 144,
+      "customer_id": 7,
+      "review": "These wrenches are precisely sized and grip nuts and bolts securely. Great set!",
+      "created_date": "2020-03-22"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 556,
+    "fields": {
+      "product_id": 144,
+      "customer_id": 5,
+      "review": "Well-made wrench set that comes in a convenient storage case. Good value for the price.",
+      "created_date": "2020-04-18"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 557,
+    "fields": {
+      "product_id": 145,
+      "customer_id": 4,
+      "review": "This chisel set is excellent quality. The edges are sharp and hold up well to use.",
+      "created_date": "2020-01-12"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 558,
+    "fields": {
+      "product_id": 145,
+      "customer_id": 6,
+      "review": "Good quality chisels with comfortable handles. They hold their edge well.",
+      "created_date": "2020-02-19"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 559,
+    "fields": {
+      "product_id": 145,
+      "customer_id": 7,
+      "review": "These chisels make clean, precise cuts in wood. The set includes all the sizes I need.",
+      "created_date": "2020-03-25"
+    }
+  },
+  {
+    "model": "bangazonapi.productreview",
+    "pk": 560,
+    "fields": {
+      "product_id": 145,
+      "customer_id": 6,
+      "review": "Well-balanced chisels that are comfortable to use. Good value for woodworking projects.",
+      "created_date": "2020-04-22"
+    }
+  }
+]

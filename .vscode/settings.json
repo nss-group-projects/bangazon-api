@@ -1,4 +1,37 @@
 {
+    "python.analysis.typeCheckingMode": "basic",
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": true,
+    "python.formatting.provider": "black",
+    "python.sortImports.args": ["--profile=black"],
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        },
+        "editor.formatOnSave": true,
+        "editor.suggestSelection": "first"
+    },
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.py[cod]": true,
+        "**/.vscode": true,
+        "**/.git": true,
+        "**/node_modules": true,
+        "**/env": true,
+        "**/*.log": true
+    },
+    "search.exclude": {
+        "**/__pycache__": true,
+        "**/*.py[cod]": true,
+        "**/.vscode": true,
+        "**/.git": true,
+        "**/node_modules": true,
+        "**/env": true,
+        "**/*.log": true
+    },
     "pylint.args": [
         "--disable=W0105,E1101,W0614,C0111,C0301",
         "--load-plugins=pylint_django",
